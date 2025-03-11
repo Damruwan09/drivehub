@@ -54,7 +54,7 @@
                 <div class="container">
                     <div class="signup-content">
                         <div class="signup-form">
-                            <h2 class="form-title">Sign up</h2>
+                            <h2 class="form-title">SIGN UP</h2>
 
                             <form class="register-form" id="registerForm">
                                 <input type="hidden" name="action" value="register">
